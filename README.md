@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yhtyyar
-- 👀 I’m interested in interesting challenge
-- 🌱 I’m currently learning to live without worries
-- 💞️ I want to partner with Wikipedia and other free and open source educational institutions
+- 👋 Hi, I’m Yhtyyar. I am a postgraduate student at Ulyanov Chuvash State University, specializing in Organic Chemistry. 
+- 👀 I am involved in research focused on developing anti-tuberculosis drugs. 
+- 🌱 I am proficient in Java, Spring, Hibernate, SQL (PostgreSQL). I
+- 💞️ I enjoy playing chess, solving puzzles, traveling, and socializing with friends.
 - 📫 How to reach me kadyrow1506@gmail.com
 
 <!---
