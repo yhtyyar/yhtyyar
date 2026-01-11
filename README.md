@@ -1,52 +1,60 @@
-# Hi, I'm Yhtyyar 👋
+# Yhtyyar Kadyrov
 
-**Fullstack QA Engineer** | **QA Automation Specialist**
-
----
-
-## 👨‍💼 About Me
-
-I'm a QA Engineer specializing in **functional testing**, **API automation**, and **test design optimization**. I help teams identify critical issues early and scale testing through intelligent automation.
+**Fullstack QA Engineer | QA Automation Specialist**
 
 ---
 
-## 🛠️ Core Technical Skills
+## Professional Profile
+
+QA Engineer with extensive expertise in functional testing, API automation, and test design optimization. Specialized in multi-platform testing environments and quality assurance process improvement. Proven ability to identify critical issues and implement intelligent automation solutions to enhance testing efficiency.
+
+---
+
+## Technical Competencies
 
 **API Testing & Automation**  
-Postman • REST API Testing • HTTP Validation • Test Automation • Python Scripting
+Postman | REST API Testing | HTTP Validation | Test Automation | Python Scripting
 
 **Test Management & Analysis**  
-TestRail • Jira • Charles Proxy (Network Analysis) • Confluence
+TestRail | Jira | Charles Proxy (Network Traffic Analysis) | Confluence
 
-**Testing Expertise**  
-Functional Testing • Cross-Platform Testing • Cross-Browser Testing • Regression Testing • Exploratory Testing • Performance Testing • Security Testing (OWASP) • Smoke & Sanity Testing • Negative Testing • Test Design
+**Testing Methodologies**  
+Functional Testing | Cross-Platform Testing | Cross-Browser Testing | Regression Testing | Exploratory Testing | Performance Testing | Security Testing (OWASP) | Test Design & Strategy
 
 **Development & Tools**  
-SQL (PostgreSQL) • Git • Python • Agile Methodology
+SQL (PostgreSQL) | Git | Python | Java | Agile Methodology
 
 **Languages**  
-🇷🇺 Russian – Native | 🇬🇧 English – Intermediate
+Russian (Native) | English (B1 - Intermediate)
 
 ---
 
-## 💡 What I Can Do
+## Core Capabilities
 
-✅ **Design & Execute Test Strategies** – Comprehensive test planning for complex applications  
-✅ **Automate API Testing** – Build robust Postman test suites with detailed validation  
-✅ **Multi-Platform Testing** – Web, mobile (Android/iOS), and Smart TV platforms  
-✅ **Optimize Test Execution** – Apply advanced test design techniques for faster, smarter testing  
-✅ **Analyze & Document Defects** – Clear, actionable bug reports with impact assessment  
-✅ **Network & Performance Analysis** – Identify performance bottlenecks and security issues  
-✅ **Create Testing Infrastructure** – Test documentation, test cases, automation scripts  
-✅ **Improve QA Processes** – Implement best practices and optimize team workflows  
+**Test Strategy & Planning** — Develop comprehensive testing approaches for complex applications across multiple platforms
+
+**API Test Automation** — Design and implement robust test suites using Postman with comprehensive validation protocols
+
+**Multi-Platform Testing** — Execute testing across web, mobile (Android/iOS), and Smart TV environments
+
+**Test Optimization** — Apply advanced test design techniques including boundary value analysis and equivalence partitioning
+
+**Defect Analysis & Documentation** — Identify, analyze, and document issues with clear impact assessment
+
+**Network & Performance Analysis** — Diagnose performance bottlenecks, caching issues, and security vulnerabilities
+
+**Testing Infrastructure** — Develop test documentation, test cases, and automation frameworks
+
+**Process Improvement** — Implement quality assurance best practices and optimize team workflows
 
 ---
 
-## 🔗 Let's Connect
+## Contact
 
-📧 [yhtiyar2017@yandex.ru](mailto:yhtiyar2017@yandex.ru) • 💬 [@kadyrovqa](https://t.me/kadyrovqa) • 🔗 [@yhtyyar](https://github.com/yhtyyar)
+Email: [yhtiyar2017@yandex.ru](mailto:yhtiyar2017@yandex.ru)  
+Telegram: [@kadyrovqa](https://t.me/kadyrovqa)  
+GitHub: [@yhtyyar](https://github.com/yhtyyar)
 
 ---
 
-**Open to interesting QA challenges and remote opportunities**
-
+Available for remote positions and challenging QA opportunities
